@@ -28,3 +28,5 @@ for i in 0..<days {
     print("");
     app.updateQuality();
 }
+
+
